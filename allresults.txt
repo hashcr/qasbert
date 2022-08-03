@@ -1,0 +1,60 @@
+Pregunta1: When Russia invaded Ukraine?
+Respuesta1: 24 february 2022
+Pregunta2: How many refugees did the russian invasion of Ukraine caused?
+Respuesta2: 9 . 8 million
+Pregunta3: What is the first city that Russia atacked in Ukraine?
+Respuesta3: kyiv
+Pregunta4: What year the Russian conflict with Ukraine started?
+Respuesta4: 2014
+Pregunta5: What is the main reason Putin gave to his people for invading Ukraine?
+Respuesta5: demilitarise and denazify " ukraine
+Pregunta6: What's the age range of the ukranian army?
+Respuesta6: 18 and 60
+Pregunta7: How many soldiers Russia gathered at the border before invading Ukraine?
+Respuesta7: 190 , 000
+Pregunta8: Who is the president of Ukraine?
+Respuesta8: volodymyr zelenskyy
+Pregunta9: What are the consequences of the invasion of Ukraine by Russia?
+Respuesta9: the invasion caused europe ' s largest refugee crisis since world war ii , with more than 9 . 8 million ukrainians fleeing the country and a third of the population displaced . the invasion also caused global food shortages
+Pregunta10: Who is the president of Russia?
+Respuesta10: vladimir putin
+Pregunta1: Why refugees fleed Ukraine?
+Respuesta1: the invasion caused europe ' s largest refugee crisis since world war ii
+Pregunta2: Why did Russia atack the Ukraine?
+Respuesta2: the invasion caused europe ' s largest refugee crisis since world war ii
+Pregunta3: Why Ukraine hates Russia?
+Respuesta3: ukraine was governed by neo - nazis who persecuted the ethnic russian minority
+Pregunta4: Why Putin gave reasons to russian people to invade Ukraine?
+Respuesta4: irredentist views
+Pregunta5: How is the Ukraine currently divided?
+Respuesta5: currently kiev and odessa are under ucranian control , and melitopol , mariupol and severodonetsk are under russian control
+Pregunta6: Why is the United States intervening in Ukraine?
+Respuesta6: supplying arms to ukranian army
+Pregunta7: How is the russian army doing in ukraine?
+Respuesta7: a
+Pregunta8: Why is there a minimum age to join the Ukraine army?
+Respuesta8: banned from leaving the country
+Pregunta9: Has Russia invaded Odessa?
+Respuesta9: currently kiev and odessa are under ucranian control , and melitopol , mariupol and severodonetsk are under russian control
+Pregunta10: Will Russia win this war with Ukraine?
+Respuesta10: russia invaded ukraine in a major escalation of the russo - ukrainian war that began in 2014 in crimea and donbass region . the invasion caused europe ' s largest refugee crisis since world war ii , with more than 9 . 8 million ukrainians fleeing the country and a third of the population displaced . the invasion also caused global food shortages . in 2014 , russia invaded and annexed crimea , and russian - backed separatists seized part of the donbas region of south - eastern ukraine , consisting of luhansk and donetsk oblasts , sparking a regional war
+Pregunta1: Why is a geopolitical risk for Russia if Ukraine joins NATO?
+Respuesta1: [CLS] why is a geopolitical risk for russia if ukraine joins nato ? [SEP]
+Pregunta2: What consequences there can be for countries neighboring Ukraine after this war?
+Respuesta2: banned from leaving the country
+Pregunta3: How is the price of oil related to the Ukraine war crisis?
+Respuesta3: [CLS] how is the price of oil related to the ukraine war crisis ? [SEP]
+Pregunta4: What effects does the Russia-Ukraine conflict has on Costa Rica?
+Respuesta4: [CLS] what effects does the russia - ukraine conflict has on costa rica ? [SEP]
+Pregunta5: What's the role of Kamala Harris in the conflict between Russia and Ukraine?
+Respuesta5: u . s has been important by supplying arms to ukranian army
+Pregunta6: Is it as bad for Russia if Ukraine joins the EU rather than NATO?
+Respuesta6: the
+Pregunta7: What's the role of Turkey in the conflict between Russia and Ukraine?
+Respuesta7: supplying arms to ukranian army
+Pregunta8: How is the environment in Southeast Asia affected by the invasion of Ukraine by Russia?
+Respuesta8: food shortages
+Pregunta9: What implications the ongoing war between Russia and Ukraine has on the USA elections in 2024?
+Respuesta9: supplying arms to ukranian army
+Pregunta10: Which ethical justifications can Russia provide to invade Ukraine?
+Respuesta10: irredentist
